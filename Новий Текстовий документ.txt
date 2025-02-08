@@ -4,3 +4,5 @@
     git config --local user.name "han"
 
     git config --local user.email vcxz.1.2.3.gvdvb@gmail.com
+
+    git commit -a -m"add js" каментарий 
